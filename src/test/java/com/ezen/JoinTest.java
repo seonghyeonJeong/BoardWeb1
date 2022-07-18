@@ -14,6 +14,7 @@ public class JoinTest {
 		System.out.println("feature/1 브랜치 테스트 코드");
 		System.out.println("issue#1 회원가입 구현 완성!");
 		System.out.println("10분만에 다했슴다!");
+		System.out.println("다시 수정 완료입니다! 이번엔 통과인가요");
 	}
 
 }
